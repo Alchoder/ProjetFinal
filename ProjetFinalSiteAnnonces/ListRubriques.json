@@ -1,0 +1,192 @@
+[    
+	{
+      "titreRubrique": "Vehicules",
+      "imageRubrique": "/ProjetFinalSiteAnnonces/src/main/resources/static/PhotosRubriques/vehicule.jpg"
+    },
+
+    {
+     
+      "titreRubrique": "Voitures"
+  
+    },
+    {
+      
+      "titreRubrique": "Motos/scooters"
+    
+    },
+    {
+     
+      "titreRubrique": "Caravanes"
+  
+    },
+    {
+     
+      "titreRubrique": "Accessoires/pieces"
+  
+    },
+    {
+      
+      "titreRubrique": "Utilitaires"
+  
+    },
+
+    {
+      
+      "titreRubrique": "Nautisme"
+      
+    },
+    {
+   
+      "titreRubrique": "Pieces detachees"
+    
+    },
+    {
+      
+      "titreRubrique": "Velos"
+    
+    },
+    {
+    
+      "titreRubrique": "Se loger",
+      "imageRubrique": "/ProjetFinalSiteAnnonces/src/main/resources/static/PhotosRubriques/maison.jpg"
+    },
+    {
+     
+      "titreRubrique": "Ventes maison/appart"
+     
+    },
+    {
+      
+      "titreRubrique": "Terrains"
+
+    },
+    {
+      
+      "titreRubrique": "Colocations"
+
+    },
+    {
+     
+      "titreRubrique": "Locaux",
+      "imageRubrique": "/ProjetFinalSiteAnnonces/src/main/resources/static/PhotosRubriques/locaux.jpg"
+    },
+    {
+    
+      "titreRubrique": "Garages"
+      
+    },
+    {
+     
+      "titreRubrique": "Bureaux et commerces"
+    },
+    {
+     
+      "titreRubrique": "Emploi",
+      "imageRubrique": "/ProjetFinalSiteAnnonces/src/main/resources/static/PhotosRubriques/emploi.jpg"
+    },
+    {
+     
+      "titreRubrique": "Cours particuliers"
+    },
+    {
+ 
+      "titreRubrique": "Services"
+     },
+    {
+  
+      "titreRubrique": "Mode",
+      "imageRubrique": "/ProjetFinalSiteAnnonces/src/main/resources/static/PhotosRubriques/mode.jpg"
+    },
+    {
+      
+      "titreRubrique": "Pret-a-porter"
+    },
+    {
+    
+      "titreRubrique": "Puericulture"
+    },
+    {
+    
+      "titreRubrique": "Montres et bijoux"
+    },
+    {
+      
+      "titreRubrique": "Hi-tech",
+      "imageRubrique": "/ProjetFinalSiteAnnonces/src/main/resources/static/PhotosRubriques/Hi-tech.jpg"
+    },
+    {
+   
+      "titreRubrique": "Images et sons"
+    },
+    {
+   
+      "titreRubrique": "Informatique"
+    },
+    {
+      
+      "titreRubrique": "Telephonie"
+    },
+    {
+    
+      "titreRubrique": "Jeux video"
+    },
+    {
+     
+      "titreRubrique": "Habitation",
+      "imageRubrique": "/ProjetFinalSiteAnnonces/src/main/resources/static/PhotosRubriques/habitation.jpg"
+    },
+    {
+   
+      "titreRubrique": "Mobilier"
+    },
+    {
+      
+      "titreRubrique": "Electromenager"
+    },
+    {
+    
+      "titreRubrique": "Brico/jardin"
+    },
+    {
+    
+      "titreRubrique": "Decoration"
+    },
+    {
+  
+      "titreRubrique": "Loisirs",
+      "imageRubrique": "/ProjetFinalSiteAnnonces/src/main/resources/static/PhotosRubriques/loisirs.jpg"
+    },
+    {
+    
+      "titreRubrique": "Films"
+    },
+    {
+     
+      "titreRubrique": "Musique"
+    },
+    {
+  
+      "titreRubrique": "Livres/Magazines"
+    },
+    {
+   
+      "titreRubrique": "Jeux et jouets"
+    },
+    {
+
+      "titreRubrique": "Forme/detente"
+    },
+    {
+  
+      "titreRubrique": "Sport"
+    },
+    {
+    
+      "titreRubrique": "Collection"
+    },
+    {
+ 
+      "titreRubrique": "Animaux",
+      "imageRubrique": "/ProjetFinalSiteAnnonces/src/main/resources/static/PhotosRubriques/animaux.jpg"
+    }
+]

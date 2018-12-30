@@ -1,0 +1,500 @@
+{
+  "departement": [
+    {
+      "idDpt": "1",
+      "departement_code": "01",
+      "nomDpt": "Ain",
+    
+    },
+    {
+      "idDpt": "2",
+      "departement_code": "02",
+      "nomDpt": "Aisne",
+  
+    },
+    {
+      "idDpt": "3",
+      "departement_code": "03",
+      "nomDpt": "Allier",
+    
+    },
+    {
+      "idDpt": "5",
+      "departement_code": "05",
+      "nomDpt": "Hautes-Alpes",
+  
+    },
+    {
+      "idDpt": "4",
+      "departement_code": "04",
+      "nomDpt": "Alpes-de-Haute-Provence",
+  
+    },
+    {
+      "idDpt": "6",
+      "departement_code": "06",
+      "nomDpt": "Alpes-Maritimes",
+  
+    },
+    {
+      "idDpt": "7",
+      "departement_code": "07",
+      "nomDpt": "Ardèche",
+      
+    },
+    {
+      "idDpt": "8",
+      "departement_code": "08",
+      "nomDpt": "Ardennes",
+    
+    },
+    {
+      "idDpt": "9",
+      "departement_code": "09",
+      "nomDpt": "Ariège",
+    
+    },
+    {
+      "idDpt": "10",
+      "departement_code": "10",
+      "nomDpt": "Aube",
+    
+    },
+    {
+      "idDpt": "11",
+      "departement_code": "11",
+      "nomDpt": "Aude",
+     
+    },
+    {
+      "idDpt": "12",
+      "departement_code": "12",
+      "nomDpt": "Aveyron",
+
+    },
+    {
+      "idDpt": "13",
+      "departement_code": "13",
+      "nomDpt": "Bouches-du-Rhône",
+
+    },
+    {
+      "idDpt": "14",
+      "departement_code": "14",
+      "nomDpt": "Calvados",
+   
+    },
+    {
+      "idDpt": "15",
+      "departement_code": "15",
+      "nomDpt": "Cantal",
+      
+    },
+    {
+      "idDpt": "16",
+      "departement_code": "16",
+      "nomDpt": "Charente",
+    },
+    {
+      "idDpt": "17",
+      "departement_code": "17",
+      "nomDpt": "Charente-Maritime",
+    },
+    {
+      "idDpt": "18",
+      "departement_code": "18",
+      "nomDpt": "Cher",
+    },
+    {
+      "idDpt": "19",
+      "departement_code": "19",
+      "nomDpt": "Corrèze",
+    {
+      "idDpt": "20",
+      "departement_code": "2a",
+      "nomDpt": "Corse-du-sud",
+    },
+    {
+      "idDpt": "21",
+      "departement_code": "2b",
+      "nomDpt": "Haute-corse",
+    },
+    {
+      "idDpt": "22",
+      "departement_code": "21",
+      "nomDpt": "Côte-d'or",
+    },
+    {
+      "idDpt": "23",
+      "departement_code": "22",
+      "nomDpt": "Côte-d'Armor",
+    },
+    {
+      "idDpt": "24",
+      "departement_code": "23",
+      "nomDpt": "Creuse",
+    },
+    {
+      "idDpt": "25",
+      "departement_code": "24",
+      "nomDpt": "Dordogne",
+    },
+    {
+      "idDpt": "26",
+      "departement_code": "25",
+      "nomDpt": "Doubs",
+    },
+    {
+      "idDpt": "27",
+      "departement_code": "26",
+      "nomDpt": "Drème",
+    },
+    {
+      "idDpt": "28",
+      "departement_code": "27",
+      "nomDpt": "Eure",
+    },
+    {
+      "idDpt": "29",
+      "departement_code": "28",
+      "nomDpt": "Eure-et-Loir",
+    },
+    {
+      "idDpt": "30",
+      "departement_code": "29",
+      "nomDpt": "Finistère",
+    },
+    {
+      "idDpt": "31",
+      "departement_code": "30",
+      "nomDpt": "Gard",
+    },
+    {
+      "idDpt": "32",
+      "departement_code": "31",
+      "nomDpt": "Haute-Garonne",
+    },
+    {
+      "idDpt": "33",
+      "departement_code": "32",
+      "nomDpt": "Gers",
+    },
+    {
+      "idDpt": "34",
+      "departement_code": "33",
+      "nomDpt": "Gironde",
+    },
+    {
+      "idDpt": "35",
+      "departement_code": "34",
+      "nomDpt": "Hérault",
+    },
+    {
+      "idDpt": "36",
+      "departement_code": "35",
+      "nomDpt": "Ile-et-Vilaine",
+    },
+    {
+      "idDpt": "37",
+      "departement_code": "36",
+      "nomDpt": "Indre",
+    },
+    {
+      "idDpt": "38",
+      "departement_code": "37",
+      "nomDpt": "Indre-et-Loire",
+    },
+    {
+      "idDpt": "39",
+      "departement_code": "38",
+      "nomDpt": "Isère",
+    },
+    {
+      "idDpt": "40",
+      "departement_code": "39",
+      "nomDpt": "Jura",
+    },
+    {
+      "idDpt": "41",
+      "departement_code": "40",
+      "nomDpt": "Landes",
+    },
+    {
+      "idDpt": "42",
+      "departement_code": "41",
+      "nomDpt": "Loir-et-Cher",
+    },
+    {
+      "idDpt": "43",
+      "departement_code": "42",
+      "nomDpt": "Loire",
+    },
+    {
+      "idDpt": "44",
+      "departement_code": "43",
+      "nomDpt": "Haute-Loire",
+    },
+    {
+      "idDpt": "45",
+      "departement_code": "44",
+      "nomDpt": "Loire-Atlantique",
+    },
+    {
+      "idDpt": "46",
+      "departement_code": "45",
+      "nomDpt": "Loiret",
+    },
+    {
+      "idDpt": "47",
+      "departement_code": "46",
+      "nomDpt": "Lot",
+    },
+    {
+      "idDpt": "48",
+      "departement_code": "47",
+      "nomDpt": "Lot-et-Garonne",
+    },
+    {
+      "idDpt": "49",
+      "departement_code": "48",
+      "nomDpt": "Lozère",
+    },
+    {
+      "idDpt": "50",
+      "departement_code": "49",
+      "nomDpt": "Maine-et-Loire",
+    },
+    {
+      "idDpt": "51",
+      "departement_code": "50",
+      "nomDpt": "Manche",
+    },
+    {
+      "idDpt": "52",
+      "departement_code": "51",
+      "nomDpt": "Marne",
+    },
+    {
+      "idDpt": "53",
+      "departement_code": "52",
+      "nomDpt": "Haute-Marne",
+    },
+    {
+      "idDpt": "54",
+      "departement_code": "53",
+      "nomDpt": "Mayenne",
+    },
+    {
+      "idDpt": "55",
+      "departement_code": "54",
+      "nomDpt": "Meurthe-et-Moselle",
+    },
+    {
+      "idDpt": "56",
+      "departement_code": "55",
+      "nomDpt": "Meuse",
+    },
+    {
+      "idDpt": "57",
+      "departement_code": "56",
+      "nomDpt": "Morbihan",
+    },
+    {
+      "idDpt": "58",
+      "departement_code": "57",
+      "nomDpt": "Moselle",
+    },
+    {
+      "idDpt": "59",
+      "departement_code": "58",
+      "nomDpt": "Nièvre",
+    },
+    {
+      "idDpt": "60",
+      "departement_code": "59",
+      "nomDpt": "Nord",
+    },
+    {
+      "idDpt": "61",
+      "departement_code": "60",
+      "nomDpt": "Oise",
+    },
+    {
+      "idDpt": "62",
+      "departement_code": "61",
+      "nomDpt": "Orne",
+    },
+    {
+      "idDpt": "63",
+      "departement_code": "62",
+      "nomDpt": "Pas-de-Calais",
+    },
+    {
+      "idDpt": "64",
+      "departement_code": "63",
+      "nomDpt": "Puy-de-Dôme",
+    },
+    {
+      "idDpt": "65",
+      "departement_code": "64",
+      "nomDpt": "Pyrénées-Atlantiques",
+    },
+    {
+      "idDpt": "66",
+      "departement_code": "65",
+      "nomDpt": "Hautes-Pyrénées",
+    },
+    {
+      "idDpt": "67",
+      "departement_code": "66",
+      "nomDpt": "Pyrénées-Orientales",
+    },
+    {
+      "idDpt": "68",
+      "departement_code": "67",
+      "nomDpt": "Bas-Rhin",
+    },
+    {
+      "idDpt": "69",
+      "departement_code": "68",
+      "nomDpt": "Haut-Rhin",
+    },
+    {
+      "idDpt": "70",
+      "departement_code": "69",
+      "nomDpt": "Rhône",
+    },
+    {
+      "idDpt": "71",
+      "departement_code": "70",
+      "nomDpt": "Haute-Saône",
+    },
+    {
+      "idDpt": "72",
+      "departement_code": "71",
+      "nomDpt": "Saône-et-Loire",
+    },
+    {
+      "idDpt": "73",
+      "departement_code": "72",
+      "nomDpt": "Sarthe",
+    },
+    {
+      "idDpt": "74",
+      "departement_code": "73",
+      "nomDpt": "Savoie",
+    },
+    {
+      "idDpt": "75",
+      "departement_code": "74",
+      "nomDpt": "Haute-Savoie",
+    },
+    {
+      "idDpt": "76",
+      "departement_code": "75",
+      "nomDpt": "Paris",
+    },
+    {
+      "idDpt": "77",
+      "departement_code": "76",
+      "nomDpt": "Seine-Maritime",
+    },
+    {
+      "idDpt": "78",
+      "departement_code": "77",
+      "nomDpt": "Seine-et-Marne",
+    },
+    {
+      "idDpt": "79",
+      "departement_code": "78",
+      "nomDpt": "Yvelines",
+    },
+    {
+      "idDpt": "80",
+      "departement_code": "79",
+      "nomDpt": "Deux-Sèvres",
+    },
+    {
+      "idDpt": "81",
+      "departement_code": "80",
+      "nomDpt": "Somme",
+    },
+    {
+      "idDpt": "82",
+      "departement_code": "81",
+      "nomDpt": "Tarn",
+    },
+    {
+      "idDpt": "83",
+      "departement_code": "82",
+      "nomDpt": "Tarn-et-Garonne",
+    },
+    {
+      "idDpt": "84",
+      "departement_code": "83",
+      "nomDpt": "Var",
+    },
+    {
+      "idDpt": "85",
+      "departement_code": "84",
+      "nomDpt": "Vaucluse",
+    },
+    {
+      "idDpt": "86",
+      "departement_code": "85",
+      "nomDpt": "Vendée",
+    },
+    {
+      "idDpt": "87",
+      "departement_code": "86",
+      "nomDpt": "Vienne",
+    },
+    {
+      "idDpt": "88",
+      "departement_code": "87",
+      "nomDpt": "Haute-Vienne",
+    },
+    {
+      "idDpt": "89",
+      "departement_code": "88",
+      "nomDpt": "Vosges",
+    },
+    {
+      "idDpt": "90",
+      "departement_code": "89",
+      "nomDpt": "Yonne",
+    },
+    {
+      "idDpt": "91",
+      "departement_code": "90",
+      "nomDpt": "Territoire de Belfort",
+    },
+    {
+      "idDpt": "92",
+      "departement_code": "91",
+      "nomDpt": "Essonne",
+    },
+    {
+      "idDpt": "93",
+      "numDpt": "92",
+      "nomDpt": "Hauts-de-Seine",
+    },
+    {
+      "idDpt": "94",
+      "departement_code": "93",
+      "nomDpt": "Seine-Saint-Denis",
+    },
+    {
+      "idDpt": "95",
+      "departement_code": "94",
+      "nomDpt": "Val-de-Marne",
+    },
+    {
+      "idDpt": "96",
+      "departement_code": "95",
+      "nomDpt": "Val-d'oise",
+  
+    },
+   
+  ]
+}
