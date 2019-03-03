@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Inscription</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+<body>
+
+  <div class="limiter">
+    <div class="container-login100">
+      <div class="wrap-login100">
+        <form class="login100-form validate-form">
+          <span class="login100-form-title p-b-26">
+            Inscription
+          </span>
+          <span class="login100-form-title p-b-48">
+            <i class="zmdi zmdi-font"></i>
+          </span>
+          <form #Subscribe="ngForm">
+            <div class="wrap-input100 validate-input">
+              <input class="input100" [(ngModel)]="nomUtilisateur" type="text" name="nomUtilisateur">
+              <span class="focus-input100" data-placeholder="Pseudo"></span>
+            </div>
+            <div class="wrap-input100 validate-input">
+              <input class="input100" [(ngModel)]="prenomUtilisateur" type="text" name="prenomUtilisateur">
+              <span class="focus-input100" data-placeholder="Prénom"></span>
+            </div>
+            <div class="wrap-input100 validate-input">
+              <input class="input100" [(ngModel)]="login" type="text" name="login">
+              <span class="focus-input100" data-placeholder="Login"></span>
+            </div>
+            <div class="wrap-input100 validate-input" data-validate="Enter password">
+              <span class="btn-show-pass">
+                <i class="zmdi zmdi-eye"></i>
+              </span>
+              <input class="input100" [(ngModel)]="password" type="password" name="password">
+              <span class="focus-input100" data-placeholder="Mot de Passe"></span>
+            </div>
+            <div class="wrap-input100 validate-input">
+              <div class="col-md-6">
+                <div class="card">
+                  <div class="card-body">
+                    <h6 class="card-subtitle">Date de Naissance</h6>
+
+                    <div class="form-group">
+                      <div class="input-group">
+                        <input class="form-control" placeholder="yyyy-mm-dd" name="dp" [(ngModel)]="dateDeNaissance"
+                          ngbDatepicker #d="ngbDatepicker">
+                        <div class="input-group-addon" (click)="d.toggle()">
+                          <i class="fa fa-calendar"></i>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="wrap-input100 validate-input">
+              <input class="input100" [(ngModel)]="numVoie" type="number" name="numVoie">
+              <span class="focus-input100" data-placeholder="Numéro de voie"></span>
+            </div>
+            <div class="wrap-input100 validate-input">
+              <input class="input100" [(ngModel)]="rue" type="text" name="rue">
+              <span class="focus-input100" data-placeholder="Rue"></span>
+            </div>
+            <div class="wrap-input100 validate-input">
+              <input class="input100" [(ngModel)]="codePostal" type="text" name="codePostal">
+              <span class="focus-input100" data-placeholder="Code Postal"></span>
+            </div>
+            <div class="wrap-input100 validate-input">
+              <input class="input100" [(ngModel)]="ville" type="text" name="ville">
+              <span class="focus-input100" data-placeholder="Ville"></span>
+            </div>
+            <div class="wrap-input100 validate-input">
+              <input class="input100" [(ngModel)]="telephone" type="text" name="telephone">
+              <span class="focus-input100" data-placeholder="Telephone"></span>
+            </div>
+            <div class="container-login100-form-btn">
+              <div class="wrap-login100-form-btn">
+                <div class="login100-form-bgbtn"></div>
+                <button class="login100-form-btn" (click)="Inscription();Subscribe.reset()">
+                  Inscription
+                </button>
+              </div>
+            </div>
+          </form>
+
+        </form>
+      </div>
+    </div>
+  </div>
+
+
+  <div id="dropDownSelect1"></div>
+
+  <!--===============================================================================================-->
+  <script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+  <!--===============================================================================================-->
+  <script src="vendor/animsition/js/animsition.min.js"></script>
+  <!--===============================================================================================-->
+  <script src="vendor/bootstrap/js/popper.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+  <!--===============================================================================================-->
+  <script src="vendor/select2/select2.min.js"></script>
+  <!--===============================================================================================-->
+  <script src="vendor/daterangepicker/moment.min.js"></script>
+  <script src="vendor/daterangepicker/daterangepicker.js"></script>
+  <!--===============================================================================================-->
+  <script src="vendor/countdowntime/countdowntime.js"></script>
+  <!--===============================================================================================-->
+  <script src="js/main.js"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+    crossorigin="anonymous">
+  <script src="https://unpkg.com/gijgo@1.9.11/js/gijgo.min.js" type="text/javascript"></script>
+  <link href="https://unpkg.com/gijgo@1.9.11/css/gijgo.min.css" rel="stylesheet" type="text/css" />
+</body>
+
+</html>

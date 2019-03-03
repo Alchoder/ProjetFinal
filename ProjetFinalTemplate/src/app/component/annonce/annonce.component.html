@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+    <form #AjoutAnn="ngForm">
+  <div>
+    <table class="table" id="whitetable">
+      <thead class="thead-dark">
+        <tr >
+          <th>Titre</th>
+          <th>Description</th>
+          <th>Prix (€)</th>
+          <th>Image</th>
+          <th>Département de vente</th>
+        
+        </tr>
+      </thead>
+     
+        <tbody>
+          <tr>
+            <td>
+            
+                <input class="input100" [(ngModel)]="titreAnnonce" type="text" name="titreAnnonce">
+                <span class="focus-input100" data-placeholder="Titre de l'annonce"></span>
+         
+            </td>
+            <td width="500" >
+            
+                <textarea  class="form-control" rows="5" [(ngModel)]="description" type="text" name="description"></textarea>
+                <span class="focus-input100" data-placeholder="Description de l'annonce"></span>
+        
+            </td>
+            <td>
+              
+                <input class="input100" [(ngModel)]="prix" type="number" name="prix">
+                <span class="focus-input100" data-placeholder="Prix (€)"></span>
+            
+            </td>
+            <td>
+            
+                <!-- <input class="input100" [(ngModel)]="imageAnnonce" type="text" name="imageAnnonce"> -->
+                <span class="focus-input100" data-placeholder="Image de l'annonce"></span>
+                <input type="file" #imageInput (change)="processFile(imageInput)" accept="image/*" id="customFile" name="myFile"><br>
+            </td>
+            <td>
+              <select [(ngModel)]="dpt" name="dpt" class="custom-select">
+                <option *ngFor="let dpts of listDpt;"  value='{{dpts.idDpt}}'>{{dpts.nomDpt}}</option>
+              </select>
+            </td>
+            <td>
+             
+                <div class="wrap-login100-form-btn">
+                  <div class="login100-form-bgbtn"></div>
+                  <button class="login100-form-btn" (click)="addAnnonce();AjoutAnn.reset()">
+                   Ajout
+                  </button>
+                </div>
+          
+            </td>
+          </tr>
+        </tbody>
+     
+    </table>
+
+  </div>
+</form>
+
+  <div id="dropDownSelect1"></div>
+
+  <!--===============================================================================================-->
+  <script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+  <!--===============================================================================================-->
+  <script src="vendor/animsition/js/animsition.min.js"></script>
+  <!--===============================================================================================-->
+  <script src="vendor/bootstrap/js/popper.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+  <!--===============================================================================================-->
+  <script src="vendor/select2/select2.min.js"></script>
+  <!--===============================================================================================-->
+  <script src="vendor/daterangepicker/moment.min.js"></script>
+  <script src="vendor/daterangepicker/daterangepicker.js"></script>
+  <!--===============================================================================================-->
+  <script src="vendor/countdowntime/countdowntime.js"></script>
+  <!--===============================================================================================-->
+  <script src="js/main.js"></script>
+
+</body>
+
+</html>

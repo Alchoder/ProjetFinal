@@ -1,0 +1,42 @@
+body {
+    /* background-image: url(https://media.giphy.com/media/9w475hDWEPVlu/giphy.gif); */
+    /* background-color: blue; */
+    padding-top:50px; }
+.annonces-table {
+    min-height: 360px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+.duration-cell {
+    
+    width: 100px;
+    height: auto;
+    text-align: center;
+    margin: 10px auto;
+    object-fit: fill; 
+}
+th.mat-sort-header-sorted {
+    color: black;
+  }
+.map__image{
+    width: 50%;
+    float: left;
+    fill: aqua;
+    stroke: white;
+    stroke-width: 1px;
+}
+.map__image path:hover{
+    fill: rgb(0, 38, 255);
+    stroke: black;
+    stroke-width: 1px;
+    transition: fill 0.3s;
+}
+.map__list{
+    float:right;
+    width: 50%; 
+}
+mat-placeholder{
+    color:black !important;
+}
